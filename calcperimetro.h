@@ -1,11 +1,11 @@
-#ifndef CALCAREA_H
-#define CALCAREA_H
+#ifndef CALCPERIMETRO_H 
+#define CALCPERIMETRO_H
 
 #include "perimetro.h"
 
-void informarMedidasPerimetroTriangulo();
-void informarMedidasPerimetroRetangulo();
-void informarMedidasPerimetroQuadrado();
-void informarMedidasPerimetroCirculo();
+void mostrarPerimetroTriangulo(float base, float lado2, float lado3);
+void mostrarPerimetroRetangulo(float base, float altura);
+void mostrarPerimetroQuadrado(float lado);
+void mostrarPerimetroCirculo(float raio);
 
 #endif
