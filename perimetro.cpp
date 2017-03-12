@@ -1,3 +1,4 @@
+//Documentar
 #include "perimetro.h"
 
 float calcularPerimetroTriangulo(float base, float lado2, float lado3){
