@@ -1,3 +1,4 @@
+//Documentar
 #include "area.h"
 #include <cmath>
 
