@@ -1,5 +1,14 @@
 #include <iostream>
 
+#include "medidas.h"
+
+using std::cin;
+using std::cout;
+using std::endl;
+
 int main(){
- return 0;
-}
+
+    escolherFigura();
+
+    return 0;
+} 
