@@ -1,3 +1,4 @@
+//Documentar
 #ifndef PERIMETRO_H
 #define PERIMETRO_H
 
