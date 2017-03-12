@@ -1,11 +1,11 @@
-#ifndef CALCAREA_H
-#define CALCAREA_H
+#ifndef CALCVOLUME_H 
+#define CALCVOLUME_H
 
 #include "volume.h"
 
-void informarMedidasVolumePiramide();
-void informarMedidasVolumeCubo();
-void informarMedidasVolumeParalelepipedo();
-void informarMedidasVolumeEsfera();
+void mostrarVolumePiramide(float area_base, float altura);
+void mostrarVolumeCubo(float aresta);
+void mostrarVolumeParalelepipedo(float aresta1, float aresta2, float aresta3);
+void mostrarVolumeEsfera(float raio);
 
 #endif
